@@ -1,0 +1,3 @@
+[console_scripts]
+read_key_stroke = robot_controlelr.read_key:main
+

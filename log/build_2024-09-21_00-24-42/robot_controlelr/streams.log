@@ -1,0 +1,26 @@
+[0.607s] Invoking command in '/home/youssef/ros2_rover/build/robot_controlelr': PYTHONPATH=/home/youssef/ros2_rover/build/robot_controlelr/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_rover/install/robot_controlelr/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/youssef/ros2_rover/build/robot_controlelr/build --no-deps symlink_data
+[0.843s] running develop
+[0.844s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.844s]   warnings.warn(
+[0.983s] running egg_info
+[0.983s] creating robot_controlelr.egg-info
+[0.983s] writing robot_controlelr.egg-info/PKG-INFO
+[0.983s] writing dependency_links to robot_controlelr.egg-info/dependency_links.txt
+[0.983s] writing entry points to robot_controlelr.egg-info/entry_points.txt
+[0.983s] writing requirements to robot_controlelr.egg-info/requires.txt
+[0.983s] writing top-level names to robot_controlelr.egg-info/top_level.txt
+[0.983s] writing manifest file 'robot_controlelr.egg-info/SOURCES.txt'
+[0.985s] reading manifest file 'robot_controlelr.egg-info/SOURCES.txt'
+[0.985s] writing manifest file 'robot_controlelr.egg-info/SOURCES.txt'
+[0.986s] running build_ext
+[0.987s] Creating /home/youssef/ros2_rover/install/robot_controlelr/lib/python3.10/site-packages/robot-controlelr.egg-link (link to .)
+[0.987s] Installing read_key_stroke script to /home/youssef/ros2_rover/install/robot_controlelr/lib/robot_controlelr
+[0.987s] 
+[0.987s] Installed /home/youssef/ros2_rover/build/robot_controlelr
+[0.988s] running symlink_data
+[0.988s] creating /home/youssef/ros2_rover/install/robot_controlelr/share/ament_index
+[0.988s] creating /home/youssef/ros2_rover/install/robot_controlelr/share/ament_index/resource_index
+[0.988s] creating /home/youssef/ros2_rover/install/robot_controlelr/share/ament_index/resource_index/packages
+[0.988s] symbolically linking /home/youssef/ros2_rover/build/robot_controlelr/resource/robot_controlelr -> /home/youssef/ros2_rover/install/robot_controlelr/share/ament_index/resource_index/packages
+[0.988s] symbolically linking /home/youssef/ros2_rover/build/robot_controlelr/package.xml -> /home/youssef/ros2_rover/install/robot_controlelr/share/robot_controlelr
+[1.012s] Invoked command in '/home/youssef/ros2_rover/build/robot_controlelr' returned '0': PYTHONPATH=/home/youssef/ros2_rover/build/robot_controlelr/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/ros2_rover/install/robot_controlelr/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/youssef/ros2_rover/build/robot_controlelr/build --no-deps symlink_data

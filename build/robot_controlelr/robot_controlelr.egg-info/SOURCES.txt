@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/robot_controlelr
+robot_controlelr/__init__.py
+robot_controlelr/read_key.py
+robot_controlelr.egg-info/PKG-INFO
+robot_controlelr.egg-info/SOURCES.txt
+robot_controlelr.egg-info/dependency_links.txt
+robot_controlelr.egg-info/entry_points.txt
+robot_controlelr.egg-info/requires.txt
+robot_controlelr.egg-info/top_level.txt
+robot_controlelr.egg-info/zip-safe
