@@ -1,3 +1,4 @@
 [console_scripts]
+Gui = robot_controlelr.gui:main
 read_key_stroke = robot_controlelr.read_key:main
 

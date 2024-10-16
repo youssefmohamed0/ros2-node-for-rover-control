@@ -3,6 +3,7 @@ setup.cfg
 setup.py
 resource/robot_controlelr
 robot_controlelr/__init__.py
+robot_controlelr/gui.py
 robot_controlelr/read_key.py
 robot_controlelr.egg-info/PKG-INFO
 robot_controlelr.egg-info/SOURCES.txt

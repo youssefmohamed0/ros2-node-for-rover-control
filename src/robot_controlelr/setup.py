@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "read_key_stroke = robot_controlelr.read_key:main"
+            "read_key_stroke = robot_controlelr.read_key:main",
+            "Gui = robot_controlelr.gui:main"
         ],
     },
 )

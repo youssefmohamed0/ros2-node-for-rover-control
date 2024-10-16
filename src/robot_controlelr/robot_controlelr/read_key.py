@@ -51,7 +51,7 @@ def main(args=None):
         key = getKey(settings)
         if (key == '\x03'):
             break
-        if (key not in ['w','a','s','d','b']):
+        if (key not in ['w','a','s','d','b','g']):
             continue
         if key == "w":
             msg.data=1
@@ -61,6 +61,8 @@ def main(args=None):
             msg.data=3
         if key == "d":
             msg.data=4
+        if key == "g":
+            msg.data=5
         if key == "b":
             msg.data=0
 
